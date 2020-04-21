@@ -13,11 +13,11 @@ SecurityPatch()
 {
 //sample cade
 }
-
-
-
+<<<<<<< HEAD
+Feature1()
+=======
 Feature2()
-
+>>>>>>> f2
 {
 //sample code
 }
