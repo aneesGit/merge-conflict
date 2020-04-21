@@ -13,6 +13,9 @@ SecurityPatch()
 {
 //sample cade
 }
-
+Feature2()
+{
+//sample code
+}
 
 }
